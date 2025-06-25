@@ -23,7 +23,6 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=compact&theme=dracula)
 
 ---
