@@ -24,6 +24,8 @@
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=compact&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=JonnyYamagushi&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 
 ---
 
