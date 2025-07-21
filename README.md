@@ -37,7 +37,7 @@
 
   </br>
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&column=4&margin-w=10&margin-h=5&no-frame=true&no-bg=true" alt="Trophy Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&margin-w=10&margin-h=5&no-frame=true&no-bg=true" alt="Trophy Graph" />
 </p>
 
 ---
