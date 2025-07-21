@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&mode=weekly" alt="GitHub Streak" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&mode=weekly" alt="GitHub Streak" />
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&column=4&row=1&margin-w=10&margin-h=5&no-frame=true&no-bg=true" height="150" alt="Trophy Graph" />
 </p>
