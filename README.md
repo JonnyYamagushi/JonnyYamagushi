@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyYamagushi&theme=dracula&locale=pt_BR&mode=weekly&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&locale=pt_BR&mode=weekly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&column=4&row=1&margin-w=10&margin-h=5&no-frame=true&no-bg=true" height="150" alt="Trophy Graph" />
 </p>
