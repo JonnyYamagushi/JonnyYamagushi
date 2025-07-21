@@ -13,21 +13,30 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=compact&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&locale=pt_BR&mode=weekly&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=JonnyYamagushi&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyYamagushi&theme=dracula&locale=pt_BR&mode=weekly&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&column=4&row=1&margin-w=10&margin-h=5&no-frame=true&no-bg=true" height="150" alt="Trophy Graph" />
+</p>
 ---
 
 ### 🔥 Contribuições e Atividades
