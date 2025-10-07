@@ -9,6 +9,12 @@
 
 🚀 Atualmente atuando como Analista e Desenvolvedor Sênior na **[ADM Developer](https://github.com/ADM-Developer-SA)** em São Paulo, Brasil.
 
+<!--- Contribuições e linguagens ---> 
+<div  align="center" style="margin-bottom:100px">
+ <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JonnyYamagushi&theme=radical&mode=weekly" />
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JonnyYamagushi&show_icons=true&theme=radical&layout=compact" />
+</div>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -24,28 +30,57 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=JonnyYamagushi&theme=dracula&mode=weekly" alt="GitHub Streak" />
-
-  </br>
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=dracula&margin-w=10&margin-h=5&no-frame=true&no-bg=true" alt="Trophy Graph" />
-</p>
-
----
-
-### 🔥 Contribuições e Atividades
+<div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyYamagushi&theme=dracula" alt="GitHub Activity Graph"/>
+<table>
+ <tr>
+  <td align="center" colspan="3"></td>
+ </tr> 
+ <tr>
+  <td> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JonnyYamagushi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=radical&locale=pt-br&card_width=480"/></td>
+  <td><img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&theme=radical&locale=pt-br&langs_count=7"/></td>
+  <td><img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyYamagushi&layout=pie&theme=radical&locale=pt-br"/></td>
+ </tr>
+ <tr>
+  <td align="center" colspan="3"></td>
+ </tr> 
+</table>
+ 
+
+<table>
+ <tr>
+  <td colspan="4" align="center">
+    <img alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonnyYamagushi&theme=radical"/>
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+    <img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonnyYamagushi&theme=radical"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonnyYamagushi&theme=radical"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Productive Time" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonnyYamagushi&theme=radical&utcOffset=8"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Most Commit Language" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonnyYamagushi&theme=radical"/>
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JonnyYamagushi&theme=radical&margin-w=10&margin-h=5&no-frame=true&no-bg=true" alt="Trophy Graph" />
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyYamagushi&theme=react-dark" alt="GitHub Activity Graph"/>
+  </td>
+ </tr>
+</table>
+
+</div>
 </div>
 
 ---
@@ -59,3 +94,5 @@
 ---
 
 🔍 Explore meus repositórios para ver projetos em .NET, integrações com ERPs e soluções corporativas robustas.
+
+![Visualizações](https://komarev.com/ghpvc/?username=JonnyYamagushi&label=Visualizações&color=ff69b4&style=flat-square)
