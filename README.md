@@ -1,6 +1,6 @@
 # 👋 Olá! Sou o João Guilherme Ferreira Passos
 
-🎯 Arquiteto de Soluções .NET com mais de 7 anos de experiência em sistemas corporativos, especializado em:
+🎯 Arquiteto de Soluções .NET com mais de 8 anos de experiência em sistemas corporativos, especializado em:
 
 - Desenvolvimento de APIs RESTful
 - Integração com ERPs
