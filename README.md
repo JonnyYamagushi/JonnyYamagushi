@@ -7,7 +7,7 @@
 - Banco de dados SQL Server
 - Arquitetura de sistemas escaláveis
 
-🚀 Atualmente atuando como Analista e Desenvolvedor Sênior na **[ADM Developer](https://github.com/ADM-Developer-SA)** em São Paulo, Brasil.
+🚀 Atualmente atuando como Especialista de Sistemas na **[ADMEX](https://github.com/ADM-Developer-SA)** em São Paulo, Brasil.
 
 <!--- Contribuições e linguagens ---> 
 <div  align="center" style="margin-bottom:100px">
